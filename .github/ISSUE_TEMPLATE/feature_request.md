@@ -1,20 +1,15 @@
 ---
-name: Feature request
-about: Suggest a way to make the plugin better
-title: "[Feature Request]"
-labels: enhancement
-assignees: ''
+title: "Dark Mode"
 
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+My eyes hurt when using bright plugins at night. Dark mode solves that.
 
 **Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+A button (or other feature) that inverts all colours and saves this state, so that new plugin instances also generally get instantiated with dark mode.
 
 **Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+Making the plugin interface smaller.
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
